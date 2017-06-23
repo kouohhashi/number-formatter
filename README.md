@@ -25,3 +25,5 @@ A small library that adds commas to numbers
 
 In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
 
+[![Build Status](https://travis-ci.org/kouohhashi/number-formatter.svg?branch=master)](https://travis-ci.org/kouohhashi/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/kouohhashi/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/kouohhashi/number-formatter?branch=master)
